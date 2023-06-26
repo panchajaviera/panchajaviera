@@ -7,10 +7,11 @@
 \
 Note to all users: the codes that you might find here are the ones that I inherited/modified from other people, or "made" by me (at least in conceptualization, the scripting is from my husband, he's the genius programmer). So, basically, I'm the gallblader from "The Awkard Yeti".
 \
+\
 <img
   src="https://github.com/panchajaviera/panchajaviera/blob/main/gall-bladder.png"
   title="This is what I'm talking about"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: block; margin-left:auto; margin-right:auto; max-width: 300px">
 
 
 
