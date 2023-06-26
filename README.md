@@ -8,7 +8,7 @@
 Note to all users: the codes that you might find here are the ones that I inherited/modified from other people, or "made" by me (at least in conceptualization, the scripting is from my husband, he's the genius programmer). So, basically, I'm the gallblader from "The Awkard Yeti".
 \
 <img
-  src="[gall-bladder](https://github.com/panchajaviera/panchajaviera/assets/47155705/cb83e962-0adb-43d8-ae75-ee3cc82a1398)"
+  src="https://github.com/panchajaviera/panchajaviera/blob/main/gall-bladder.png"
   title="This is what I'm talking about"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
