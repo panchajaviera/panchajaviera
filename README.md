@@ -1,14 +1,18 @@
-### Hi there 👋
+### Francisca J. Benítez GitHub
 
+😄 Pronouns: She/her.
+🔭 I’m currently working on my PhD thesis. 
+🌱 I’m currently learning Julia language with the great github.com/Leticia-maria/
 
-🔭 I’m currently working on my PhD thesis, and the codes that you might find here are the ones that I inherited/modified from other people. Somo other codes are "made" by me (at least in conceptualization, the scripting is from my husband, he's the genius programmer).
+Note to all users: the codes that you might find here are the ones that I inherited/modified from other people, or "made" by me (at least in conceptualization, the scripting is from my husband, he's the genius programmer). So, basically, I'm the gallblader from "The Awkard Yeti".
+
 <!--
 **panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 ### 
-- 🌱 I’m currently learning Julia language with the great Leticia-maría
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
