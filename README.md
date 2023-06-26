@@ -2,7 +2,7 @@
 \
 😄 Pronouns: She/her.\
 🔭 I’m currently working on my PhD thesis. \
-🌱 I’m currently learning Julia language with the great @Leticia-maria/
+🌱 I’m currently learning Julia language with the great @Leticia-maria
 \
 Note to all users: the codes that you might find here are the ones that I inherited/modified from other people, or "made" by me (at least in conceptualization, the scripting is from my husband, he's the genius programmer). So, basically, I'm the gallblader from "The Awkard Yeti".
 
