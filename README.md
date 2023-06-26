@@ -11,7 +11,7 @@ Note to all users: the codes that you might find here are the ones that I inheri
 <img
   src="https://github.com/panchajaviera/panchajaviera/blob/main/gall-bladder.png"
   title="This is what I'm talking about"
-  style="display: block; margin-left:auto; margin-right:auto; max-width: 300px">
+  style="display: block; margin-left: auto; margin-right: auto; max-width: 300px">
 
 
 
