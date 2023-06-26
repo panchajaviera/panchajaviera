@@ -9,13 +9,13 @@ Note to all users: the codes that you might find here are the ones that I inheri
 \
 <img
   src="[gall-bladder](https://github.com/panchajaviera/panchajaviera/assets/47155705/cb83e962-0adb-43d8-ae75-ee3cc82a1398)"
-  title="Optional title"
+  title="This is what I'm talking about"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 
 
-<! **panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+< **panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  >
+- ⚡ Fun fact: ...>
 
