@@ -7,12 +7,15 @@
 \
 Note to all users: the codes that you might find here are the ones that I inherited/modified from other people, or "made" by me (at least in conceptualization, the scripting is from my husband, he's the genius programmer). So, basically, I'm the gallblader from "The Awkard Yeti".
 \
-[gall-bladder](https://github.com/panchajaviera/panchajaviera/assets/47155705/cb83e962-0adb-43d8-ae75-ee3cc82a1398)
+<img
+  src="[gall-bladder](https://github.com/panchajaviera/panchajaviera/assets/47155705/cb83e962-0adb-43d8-ae75-ee3cc82a1398)"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 
 
---> **panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! **panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  >
 
