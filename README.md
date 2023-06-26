@@ -11,12 +11,12 @@ Note to all users: the codes that you might find here are the ones that I inheri
 <img
   src="https://github.com/panchajaviera/panchajaviera/blob/main/gall-bladder.png"
   title="This is what I'm talking about"
-  style="display: block; margin-left: auto; margin-right: auto; max-width: 300px">
+  style="display: inline-block; margin-left: auto; margin-right: auto; max-width: 300px">
 
 
 
 
-< **panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- a normal html comment **panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
