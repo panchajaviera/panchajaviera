@@ -9,11 +9,13 @@ Note to all users: the codes that you might find here are the ones that I inheri
 \
 [gall-bladder](https://github.com/panchajaviera/panchajaviera/assets/47155705/cb83e962-0adb-43d8-ae75-ee3cc82a1398)
 
-**panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+--> **panchajaviera/panchajaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-### 
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
